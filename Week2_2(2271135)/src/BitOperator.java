@@ -15,11 +15,8 @@ public class BitOperator {
 		System.out.printf("%x\n",(d>>>2));
 		
 		/*
-		System.out.printf("%04x\n",(short)(a&b));
-		System.out.printf("%04x\n",(short)(a|b));
-		System.out.printf("%04x\n",(short)(a^b));
-		System.out.printf("%04x\n",(short)(~a));
-*/
+		수정
+		*/
 	}
 
 }
